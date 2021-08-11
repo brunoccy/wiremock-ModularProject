@@ -1,6 +1,6 @@
 {
     "pageTitle": "Home",
-    "card": [
+    "cards": [
         {
             "type": "SquareCard",
             "components": [
