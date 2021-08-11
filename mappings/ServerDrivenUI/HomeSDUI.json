@@ -1,7 +1,7 @@
 {
   "request": {
       "method": "GET",
-      "url": "/homeSDUI"
+      "url": "/env_mock/api/v1/homeSDUI"
   },
   "response": {
       "status": 200,
