@@ -1,0 +1,10 @@
+{
+  "request": {
+      "method": "GET",
+      "url": "/deeplink"
+  },
+  "response": {
+      "status": 200,
+      "bodyFileName": "deeplink/deeplinkCore.json"
+  }
+}

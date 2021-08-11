@@ -1,0 +1,14 @@
+{
+    "request" : {
+        "url" : "/CodableProject",
+        "method" : "GET"
+    },
+    "response" : {
+        "status" : 200,
+        "fixedDelayMilliseconds": 3000,
+        "bodyFileName" : "study/codable.json",
+        "headers" : {
+            "Content-Type" : "application/json; charset=utf-8"
+        }
+    }
+}
