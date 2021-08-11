@@ -1,26 +1,37 @@
 {
     "pageTitle": "Home",
-    "components": [
-    {
-        "type": "HomeCard",
-        "title": "Design System Library"
-        "action": {
-            "identifier": "HOME_SCREEN"
+    "card": [
+        {
+            "type": "SquareCard",
+            "components": [
+                {
+                    "title": "Design System Library",
+                    "action": {
+                        "identifier": "HOME_SCREEN"
+                    },
+                    "properties": {
+                        "backgroundColor": "FFCD00"
+                    }
+                },
+                {
+                    "title": "Design System Library",
+                    "action": {
+                        "identifier": "HOME_SCREEN"
+                    },
+                    "properties": {
+                        "backgroundColor": "FFCD00"
+                    }
+                },
+                {
+                    "title": "Design System Library",
+                    "action": {
+                        "identifier": "HOME_SCREEN"
+                    },
+                    "properties": {
+                        "backgroundColor": "FFCD00"
+                    }
+                }
+            ]
         }
-    },
-    {
-        "type": "HomeCard",
-        "title": "Design System Library"
-        "action": {
-            "identifier": "HOME_SCREEN"
-        }
-    },
-    {
-        "type": "HomeCard",
-        "title": "Design System Library"
-        "action": {
-            "identifier": "HOME_SCREEN"
-        }
-    },
     ]
 }
