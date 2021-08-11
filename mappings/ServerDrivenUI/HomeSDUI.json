@@ -1,0 +1,10 @@
+{
+  "request": {
+      "method": "GET",
+      "url": "/homeSDUI"
+  },
+  "response": {
+      "status": 200,
+      "bodyFileName": "ServerDrivenUI/HomeSDUI.json"
+  }
+}

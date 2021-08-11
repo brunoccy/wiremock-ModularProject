@@ -1,0 +1,26 @@
+{
+    "pageTitle": "Home",
+    "components": [
+    {
+        "type": "HomeCard",
+        "title": "Design System Library"
+        "action": {
+            "identifier": "HOME_SCREEN"
+        }
+    },
+    {
+        "type": "HomeCard",
+        "title": "Design System Library"
+        "action": {
+            "identifier": "HOME_SCREEN"
+        }
+    },
+    {
+        "type": "HomeCard",
+        "title": "Design System Library"
+        "action": {
+            "identifier": "HOME_SCREEN"
+        }
+    },
+    ]
+}
