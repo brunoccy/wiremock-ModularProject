@@ -2,7 +2,7 @@
     "pageTitle": "Home",
     "cards": [
         {
-            "type": "SquareCard",
+            "type": "SQUARECARD",
             "components": [
                 {
                     "title": "Design System Library",
